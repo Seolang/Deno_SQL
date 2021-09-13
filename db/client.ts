@@ -6,8 +6,8 @@ const client = await new Client();
 
 client.connect({
   hostname: "server IP",
-  username: "breathe",
-  password: "qmfptm486$",
+  username: "",
+  password: "",
   db: "breathe",
 });
 
